@@ -1,0 +1,4 @@
+{
+  "extends": "./cypress.json",
+  "video": false
+}
