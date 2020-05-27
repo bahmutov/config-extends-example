@@ -8,3 +8,5 @@ npx cypress open --config-file staging.json
 ```
 
 ![Extends config](images/extends.gif)
+
+The recursive config load was published as a separate NPM package, see [bahmutov/cypress-extends](https://github.com/bahmutov/cypress-extends).
