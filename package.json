@@ -1,0 +1,25 @@
+{
+  "name": "config-extends-example",
+  "version": "1.0.0",
+  "description": "Example Cypress project with config file that extends another config file",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/config-extends-example.git"
+  },
+  "keywords": [
+    "cypress-example"
+  ],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahmutov/config-extends-example/issues"
+  },
+  "homepage": "https://github.com/bahmutov/config-extends-example#readme",
+  "devDependencies": {
+    "cypress": "4.7.0"
+  }
+}
